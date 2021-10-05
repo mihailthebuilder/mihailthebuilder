@@ -1,8 +1,4 @@
-# Howdy 🤠
-
-## whoami
-
-### I'm Mihail and I work on projects that involve data science and software engineering
+# Howdy 🤠 I'm Mihail and I work on projects that involve data science and software engineering
 
 ## projects
 
