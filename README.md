@@ -6,10 +6,8 @@
 
 <details>
     <summary>Click to expand</summary>
-    | Syntax      | Description |
-    | ----------- | ----------- |
-    | Header      | Title       |
-    | Paragraph   | Text        |
+    - A collection of research pieces on crypto investing - [GitHub](https://github.com/mihailthebuilder/crypto-research)
+    - Finding an NLP model that can score the positivity of news headlines - [GitHub](https://github.com/mihailthebuilder/news-positivity-research)
 </details>
 
 ## Web development
