@@ -1,11 +1,16 @@
-### Howdy 🤠 I'm Mihail and I work on projects that involve data science and software engineering
+# Howdy 🤠
 
-# projects
+## whoami
 
-## Data science
+### I'm Mihail and I work on projects that involve data science and software engineering
+
+## projects
+
+### Data science
 
 <details>
     <summary>Click to expand</summary>
+&nbsp;
 
 - A collection of research pieces on crypto investing - [GitHub](https://github.com/mihailthebuilder/crypto-research)
 - Finding a good NLP model for scoring the positivity of news headlines - [GitHub](https://github.com/mihailthebuilder/news-positivity-research)
@@ -13,10 +18,11 @@
 
 </details>
 
-## Software development
+### Software development
 
 <details>
     <summary>Click to expand</summary>  
+&nbsp;
 
 - Browser extension that filters out liked and promoted posts from your LinkedIn feed - [GitHub](https://github.com/mihailthebuilder/simplyfeed)
 - My portfolio site for software development - [GitHub](https://github.com/mihailthebuilder/personal-site)
@@ -29,7 +35,7 @@
 
 </details>
 
-## Other
+### Other
 
 <details>
     <summary>Click to expand</summary>
