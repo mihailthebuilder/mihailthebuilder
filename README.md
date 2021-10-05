@@ -1,6 +1,6 @@
 # Howdy 🤠 I'm Mihail and I work on projects that involve data science and software engineering
 
-# projects
+# Projects
 
 ## Data science
 
@@ -44,3 +44,7 @@
 - Personal blog site built with Webflow's CMS plan - [GitHub](https://github.com/mihailthebuilder/personal-blog-webflow)
 
 </details>
+
+# Contact
+
+Best way to contact me is by connecting on [LinkedIn](https://www.linkedin.com/in/mihailmarian/)
