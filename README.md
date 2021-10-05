@@ -1,8 +1,8 @@
 # Howdy 🤠 I'm Mihail and I work on projects that involve data science and software engineering
 
-## projects
+# projects
 
-### Data science
+## Data science
 
 <details>
     <summary>Click to expand</summary>
@@ -14,7 +14,7 @@
 
 </details>
 
-### Software development
+## Software development
 
 <details>
     <summary>Click to expand</summary>  
@@ -32,7 +32,7 @@
 
 </details>
 
-### Other
+## Other
 
 <details>
     <summary>Click to expand</summary>
