@@ -28,6 +28,7 @@
 - News site on Asian tech startups - [GitHub](https://github.com/mihailthebuilder/tech-asia)
 - Landing page for marketplace of dental practices - [GitHub](https://github.com/mihailthebuilder/findadentistv1)
 - Ecommerce landing page - [GitHub](https://github.com/mihailthebuilder/original-trombones-v2)
+- Web app that downloads any manga chapter in a PDF file - [GitHub](https://github.com/mihailthebuilder/manga_download)
 
 </details>
 
@@ -35,6 +36,11 @@
 
 <details>
     <summary>Click to expand</summary>
-    - test
-    - one
+&nbsp;
+
+- Startup landing page made using the Webflow site builder - [GitHub](https://github.com/mihailthebuilder/rellate-landing)
+- Python script that generates email alerts when specific keywords are mentioned in Facebook group posts - [GitHub](https://github.com/mihailthebuilder/topic-alerts)
+- Fully-fledged ecommerce site built with Webflow's standard ecommerce plan - [GitHub](https://github.com/mihailthebuilder/ecommerce-site-webflow)
+- Personal blog site built with Webflow's CMS plan - [GitHub](https://github.com/mihailthebuilder/personal-blog-webflow)
+
 </details>
