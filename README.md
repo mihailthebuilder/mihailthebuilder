@@ -2,8 +2,28 @@
 
 # projects
 
+## Data science
+
 <details>
-    <summary> ## Data science</summary>
+    <summary>Click to expand</summary>
+    | Syntax      | Description |
+    | ----------- | ----------- |
+    | Header      | Title       |
+    | Paragraph   | Text        |
+</details>
+
+## Web development
+
+<details>
+    <summary>Click to expand</summary>
+    - test
+    - one
+</details>
+
+## Other
+
+<details>
+    <summary>Click to expand</summary>
     - test
     - one
 </details>
