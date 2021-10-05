@@ -16,7 +16,7 @@
 ## Software development
 
 <details>
-    <summary>Click to expand</summary>
+    <summary>Click to expand</summary>  
 
 - Browser extension that filters out liked and promoted posts from your LinkedIn feed - [GitHub](https://github.com/mihailthebuilder/simplyfeed)
 - My portfolio site for software development - [GitHub](https://github.com/mihailthebuilder/personal-site)
