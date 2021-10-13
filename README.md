@@ -1,20 +1,21 @@
-# Howdy 🤠 I'm Mihail and I work on projects that involve data science and software engineering
+# Howdy 🤠 I'm Mihail and I work on projects that involve machine learning and software engineering
 
 # Projects
 
-## Data science
+## Machine Learning / Data Science
 
 <details>
     <summary>Click to expand</summary>
 &nbsp;
 
+- A computer vision model that recognises fluffy things - [GitHub](https://github.com/mihailthebuilder/fluffy-nb)
 - A collection of research pieces on crypto investing - [GitHub](https://github.com/mihailthebuilder/crypto-research)
 - Finding a good NLP model for scoring the positivity of news headlines - [GitHub](https://github.com/mihailthebuilder/news-positivity-research)
 - Web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
 
 </details>
 
-## Software development
+## Software Development
 
 <details>
     <summary>Click to expand</summary>  
