@@ -2,7 +2,12 @@
 
 # Projects
 
-## Machine Learning / Data Science
+## Web Dev + ML
+
+- Web app that can tell whether an image has something fluffy in it - [GitHub]([https](https://github.com/mihailthebuilder/fluffnet)
+- Web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
+
+## Machine Learning / Data Science Research
 
 <details>
     <summary>Click to expand</summary>
@@ -11,11 +16,10 @@
 - A computer vision model that recognises fluffy things - [GitHub](https://github.com/mihailthebuilder/fluffy-nb)
 - A collection of research pieces on crypto investing - [GitHub](https://github.com/mihailthebuilder/crypto-research)
 - Finding a good NLP model for scoring the positivity of news headlines - [GitHub](https://github.com/mihailthebuilder/news-positivity-research)
-- Web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
 
 </details>
 
-## Software Development
+## Web Development
 
 <details>
     <summary>Click to expand</summary>  
