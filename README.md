@@ -1,4 +1,4 @@
-# Howdy 🤠 I'm Mihail and I work on projects that involve machine learning and software engineering
+# Howdy 🤠 I'm Mihail and I work on projects that combine machine learning and software engineering
 
 # Projects
 
