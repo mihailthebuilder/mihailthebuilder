@@ -1,4 +1,4 @@
-# Howdy 🤠 I'm Mihail and I work on projects that combine machine learning and software engineering
+# Howdy 🤠 I'm Mihail and I'm a Full-Stack Developer with extensive data science knowledge
 
 # Projects
 
@@ -10,18 +10,6 @@
 
 - Web app that can tell whether an image has something fluffy in it - [GitHub](https://github.com/mihailthebuilder/fluffnet)
 - Web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
-
-</details>
-
-## Machine Learning / Data Science Research
-
-<details>
-    <summary>Click to expand</summary>
-&nbsp;
-
-- A computer vision model that recognises fluffy things - [GitHub](https://github.com/mihailthebuilder/fluffy-nb)
-- A collection of research pieces on crypto investing - [GitHub](https://github.com/mihailthebuilder/crypto-research)
-- Finding a good NLP model for scoring the positivity of news headlines - [GitHub](https://github.com/mihailthebuilder/news-positivity-research)
 
 </details>
 
@@ -40,6 +28,18 @@
 - Landing page for marketplace of dental practices - [GitHub](https://github.com/mihailthebuilder/findadentistv1)
 - Ecommerce landing page - [GitHub](https://github.com/mihailthebuilder/original-trombones-v2)
 - Web app that downloads any manga chapter in a PDF file - [GitHub](https://github.com/mihailthebuilder/manga_download)
+
+</details>
+
+## Machine Learning / Data Science Research
+
+<details>
+    <summary>Click to expand</summary>
+&nbsp;
+
+- A computer vision model that recognises fluffy things - [GitHub](https://github.com/mihailthebuilder/fluffy-nb)
+- A collection of research pieces on crypto investing - [GitHub](https://github.com/mihailthebuilder/crypto-research)
+- Finding a good NLP model for scoring the positivity of news headlines - [GitHub](https://github.com/mihailthebuilder/news-positivity-research)
 
 </details>
 
