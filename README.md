@@ -2,13 +2,14 @@
 
 # Projects
 
-## Web Dev + Data Science
+## Top projects
 
 <details>
     <summary>Click to expand</summary>
 &nbsp;
 
 - Web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
+- Browser extension that filters out liked and promoted posts from your LinkedIn feed - [GitHub](https://github.com/mihailthebuilder/simplyfeed)
 - Web app that can tell whether an image has something fluffy in it - [GitHub](https://github.com/mihailthebuilder/fluffnet)
 
 </details>
@@ -19,7 +20,6 @@
     <summary>Click to expand</summary>  
 &nbsp;
 
-- Browser extension that filters out liked and promoted posts from your LinkedIn feed - [GitHub](https://github.com/mihailthebuilder/simplyfeed)
 - My portfolio site for software development - [GitHub](https://github.com/mihailthebuilder/personal-site)
 - Multi-level memory game where you have to avoid picking the same GIF - [GitHub](https://github.com/mihailthebuilder/what-gifs)
 - Front-end for an online job application form - [GitHub](https://github.com/mihailthebuilder/top-cv-app/tree/hooks-rewrite)
