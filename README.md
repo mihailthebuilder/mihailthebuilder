@@ -2,14 +2,14 @@
 
 # Projects
 
-## Web Dev + ML
+## Web Dev + Data Science
 
 <details>
     <summary>Click to expand</summary>
 &nbsp;
 
-- Web app that can tell whether an image has something fluffy in it - [GitHub](https://github.com/mihailthebuilder/fluffnet)
 - Web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
+- Web app that can tell whether an image has something fluffy in it - [GitHub](https://github.com/mihailthebuilder/fluffnet)
 
 </details>
 
@@ -31,7 +31,7 @@
 
 </details>
 
-## Machine Learning / Data Science Research
+## Data Science
 
 <details>
     <summary>Click to expand</summary>
