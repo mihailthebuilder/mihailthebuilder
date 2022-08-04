@@ -1,4 +1,4 @@
-# Note - this is an old profile, I can't be bothered keeping it up to date. Any questions, hit me up on LinkedIn
+# Note - this is outdated; hit me up on LinkedIn for any questions
 
 # Projects
 
