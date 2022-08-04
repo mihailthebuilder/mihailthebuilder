@@ -1,4 +1,4 @@
-# Howdy 🤠 I'm Mihail and I'm a Full-Stack Developer with extensive data science knowledge
+# Note - this is an old profile, I can't be bothered keeping it up to date. Any questions, hit me up on LinkedIn
 
 # Projects
 
