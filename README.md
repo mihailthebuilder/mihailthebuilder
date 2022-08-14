@@ -8,10 +8,10 @@
     <summary>Click to expand</summary>
 &nbsp;
 
-- Java algorithm that scrapes posts from private Facebook groups based and sends notifications for specific keywords via Messenger - [GitHub](https://github.com/mihailthebuilder/facebook-alerts)
-- Web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
-- Browser extension that filters out liked and promoted posts from your LinkedIn feed - [GitHub](https://github.com/mihailthebuilder/simplyfeed)
-- Web app that can tell whether an image has something fluffy in it - [GitHub](https://github.com/mihailthebuilder/fluffnet)
+- Java/Selenium script that scrapes posts from private Facebook groups based and sends notifications for specific keywords via Messenger - [GitHub](https://github.com/mihailthebuilder/facebook-alerts)
+- React/Django web app that analyses the positivity of a news site - [GitHub](https://github.com/mihailthebuilder/bright-news-backend)
+- React-based browser extension that filters out liked and promoted posts from your LinkedIn feed - [GitHub](https://github.com/mihailthebuilder/simplyfeed)
+- React/Flask web app that can tell whether an image has something fluffy in it - [GitHub](https://github.com/mihailthebuilder/fluffnet)
 
 </details>
 
