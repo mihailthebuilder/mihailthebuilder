@@ -1,6 +1,6 @@
 Howdy! A few things to note before you check out my repos.
 
-**_This is my personal profile._** My professional contributions lie in separate profiles, as per the employers' requirements.
+**_This is my personal profile._** I keep my professional work in different profiles, based on what each employer prefers.
 
 **_The code in these repos tends to be very different than what I write at work._** I use the right tools for the job, whether it's
 programming language, framework, testing, infrastructure, you name it.
