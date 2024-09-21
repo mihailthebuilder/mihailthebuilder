@@ -14,4 +14,4 @@ programming language, framework, testing, infrastructure, you name it.
 - [basic-forms](https://github.com/mihailthebuilder/basic-forms/) - Go webhook that stores form submissions in the filesystem.
 - more to add...
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/mihailmarian/) for more.
+Contact me on [LinkedIn](https://www.linkedin.com/in/mihailmarian/); make sure you add a message to your connection request.
