@@ -5,7 +5,7 @@
 **_The code in these repos tends to be very different than what I write at work._** I use the right tools for the job, whether it's
 programming language, framework, testing, infrastructure, you name it.
 
-## Repo highlights
+## Highlights
 
 - [HEX to Tailwind](https://github.com/mihailthebuilder/hex-tailwind/) - small web app that converts your HEX code to the closest color in the Tailwind color palette. Ranked #2 on Google search results and #1 on Bing.
 - [SimplyFeed](https://github.com/mihailthebuilder/simplyfeed) - Chrome/Firefox extension that filters liked and promoted posts in your LinkedIn feed. Achieved >1k users at its peak.
