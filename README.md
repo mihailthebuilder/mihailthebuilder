@@ -9,6 +9,7 @@ programming language, testing strategy, infrastructure, you name it.
 
 Ordered by their (limited) impact on the world:
 
+- [ConfigBerry](https://configberry.com/) - manage Cloudflare configs for multiple domains, at scale. **JUST LAUNCHED**
 - [ForecastSheets](https://forecastsheets.com) - Google Sheets add-on for time series forecasting, built with React and Django. +2k add-on installs, 10k website visits, ranked #2 on Google search results. Source code available on request.
 - [HEX to Tailwind](https://github.com/mihailthebuilder/hex-tailwind/) - small Astro/React web app that converts your HEX code to the closest color in the Tailwind color palette. 70k site visits, ranked #1 on Google search results.
 - [TikTok Examples](https://github.com/mihailthebuilder/tiktokexamples) - Astro blog site that collected case studies for audience growth on TikTok. 60k site visits and 200 newsletter signups.
