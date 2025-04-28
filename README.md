@@ -15,7 +15,7 @@ Ordered by their (limited) impact on the world:
 - [TikTok Examples](https://github.com/mihailthebuilder/tiktokexamples) - Astro blog site that collected case studies for audience growth on TikTok. 60k site visits and 200 newsletter signups.
 - [SimplyFeed](https://github.com/mihailthebuilder/simplyfeed) - React-based Chrome/Firefox extension that filters liked and promoted posts in your LinkedIn feed. Had >1k installs at its peak.
 - _UK company database_ - Python scripts wrote to ingest and process the XBRL financial accounts of the 10 million companies listed on Companies House. Available for consulting services.
-- [React](https://github.com/mihailthebuilder/hackernewsalerts-frontend) / [Django](https://github.com/mihailthebuilder/hackernewsalerts-backend) application that notifies when you get a new comment/reply on Hacker News. 12k site visits, 50 users, ranked #3 on Google & Bing.
+- [hackernewsalerts.com](https://hackernewsalerts.com) notifies when you get a new comment/reply on Hacker News. 12k site visits, 50 users, ranked #3 on Google & Bing.
 - [jenkins-box](https://github.com/mihailthebuilder/jenkins-box) - a collection of Terraform scripts that deploy a Jenkins server on an AWS EC2 instance.
 - [basic-forms](https://github.com/mihailthebuilder/basic-forms/) - Go webhook that stores form submissions in the filesystem.
 - more to add...
