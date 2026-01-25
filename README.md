@@ -9,8 +9,8 @@ programming language, testing strategy, infrastructure, you name it.
 
 Ordered by their (limited) impact on the world:
 
-- [LibreThinker](https://librethinker.com) - AI Copilot for LibreOffice. Python extension with Django API. 800+ installs.
-- [ForecastSheets](https://forecastsheets.com) - Google Sheets add-on for time series forecasting, built with React and Django. +2k add-on installs, 10k website visits, ranked #2 on Google search results. Source code available on request.
+- [LibreThinker](https://librethinker.com) - AI Copilot for LibreOffice. Python extension with Django API. 4k installs.
+- [ForecastSheets](https://forecastsheets.com) - Google Sheets add-on for time series forecasting, built with React and Django. 3k add-on installs, 10k website visits, ranked #2 on Google search results. Source code available on request.
 - [HEX to Tailwind](https://github.com/mihailthebuilder/hex-tailwind/) - small Astro/React web app that converts your HEX code to the closest color in the Tailwind color palette. 70k site visits, ranked #1 on Google search results.
 - [TikTok Examples](https://github.com/mihailthebuilder/tiktokexamples) - Astro blog site that collected case studies for audience growth on TikTok. 60k site visits and 200 newsletter signups.
 - [SimplyFeed](https://github.com/mihailthebuilder/simplyfeed) - React-based Chrome/Firefox extension that filters liked and promoted posts in your LinkedIn feed. Had >1k installs at its peak.
