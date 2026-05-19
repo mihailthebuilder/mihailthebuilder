@@ -11,10 +11,10 @@ Ordered by their (limited) impact on the world:
 
 - [LibreThinker](https://librethinker.com) - AI Copilot for LibreOffice. Python extension with Django API. 12k installs.
 - [ForecastSheets](https://forecastsheets.com) - Google Sheets add-on for time series forecasting, built with React and Django. 3k installs.
-- [hackernewsalerts.com](https://hackernewsalerts.com) notifies when you get a new comment/reply on Hacker News. 12k site visits, 100 users, ranked #1 on Google & Bing.
-- [HEX to Tailwind](https://github.com/mihailthebuilder/hex-tailwind/) - small Astro/React web app that converts your HEX code to the closest color in the Tailwind color palette. 90k site visits, ranked #1 on Google search results.
-- [TikTok Examples](https://github.com/mihailthebuilder/tiktokexamples) - Astro blog site that collected case studies for audience growth on TikTok. 60k site visits and 200 newsletter signups.
+- [hackernewsalerts.com](https://hackernewsalerts.com) notifies when you get a new comment/reply on Hacker News. 200 users.
+- [HEX to Tailwind](https://github.com/mihailthebuilder/hex-tailwind/) - small Astro/React web app that converts your HEX code to the closest color in the Tailwind color palette. 90k site visits.
 - [SimplyFeed](https://github.com/mihailthebuilder/simplyfeed) - React-based Chrome/Firefox extension that filters liked and promoted posts in your LinkedIn feed. Had >1k installs at its peak.
+- [TikTok Examples](https://github.com/mihailthebuilder/tiktokexamples) - Astro blog site that collected case studies for audience growth on TikTok. 200 newsletter signups.
 - _UK company database_ - Python scripts wrote to ingest and process the XBRL financial accounts of the 10 million companies listed on Companies House. Available for consulting services.
 - [ConfigBerry](https://github.com/mihailthebuilder/configberry) - manage Cloudflare configs for multiple domains, at scale. Ranked #1 on Google, 15k site visits.
 - [jenkins-box](https://github.com/mihailthebuilder/jenkins-box) - a collection of Terraform scripts that deploy a Jenkins server on an AWS EC2 instance.
