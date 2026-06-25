@@ -9,7 +9,7 @@ programming language, testing strategy, infrastructure, you name it.
 
 Ordered by their (limited) impact on the world:
 
-- [LibreThinker](https://librethinker.com) - AI Copilot for LibreOffice. Python extension with Django API. 12k installs.
+- [LibreThinker](https://librethinker.com) - AI Copilot for LibreOffice. Python extension with Django API. 15k installs.
 - [ForecastSheets](https://forecastsheets.com) - Google Sheets add-on for time series forecasting, built with React and Django. 3k installs.
 - [hackernewsalerts.com](https://hackernewsalerts.com) notifies when you get a new comment/reply on Hacker News. 200 users.
 - [SimplyFeed](https://github.com/mihailthebuilder/simplyfeed) - React-based Chrome/Firefox extension that filters liked and promoted posts in your LinkedIn feed. +1k installs.
